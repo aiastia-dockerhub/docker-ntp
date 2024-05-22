@@ -131,6 +131,7 @@ servers.
 
 ## Chronyd Options
 
+
 ### No Client Log (noclientlog)
 
 This is optional and not enabled by default. If you provide the `NOCLIENTLOG=true` envivonrment variable,
