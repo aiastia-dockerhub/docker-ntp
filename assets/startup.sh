@@ -75,6 +75,7 @@ done
   fi
   echo
   echo "allow all"
+  echo "maxdistance 16.0"
 } >> ${CHRONY_CONF_FILE}
 
 ## startup chronyd in the foreground
